@@ -1,14 +1,22 @@
 {
-  "name": "express",
+  "name": "expressserver",
   "version": "1.0.0",
-  "description": "Node.js express",
+  "description": "exprress server",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hindrik40/expressserver.git"
   },
   "keywords": [
-    "express"
+    "Express"
   ],
   "author": "hindrik40",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hindrik40/expressserver/issues"
+  },
+  "homepage": "https://github.com/hindrik40/expressserver#readme"
 }
